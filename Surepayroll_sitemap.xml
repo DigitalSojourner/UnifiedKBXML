@@ -1,22 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://help.surepayroll.com/s/</loc>
-  <lastmod>2023-11-13T19:11:49+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://help.surepayroll.com/s/?</loc>
-  <lastmod>2023-11-13T19:11:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://help.surepayroll.com/s/article/What-do-I-do-with-a-notice-from-a-tax-agency</loc>
+        <lastmod>2024-11-07T15:53:46.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/SurePayroll-Referral-Program-public</loc>
+        <lastmod>2024-09-20T16:03:31.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/Submitting-Payroll-Data</loc>
+        <lastmod>2024-09-18T20:12:36.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/Managing-Time-Cards-in-StratusTime-Essentials</loc>
+        <lastmod>2024-09-18T20:12:01.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/Managing-Schedules-in-StratusTime-Essentials</loc>
+        <lastmod>2024-09-18T20:11:19.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/Setting-Up-Filters</loc>
+        <lastmod>2024-09-18T20:11:02.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/Preparing-for-New-Hires</loc>
+        <lastmod>2024-09-18T20:10:46.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/Approving-Time-Cards-in-StratusTime-Essentials</loc>
+        <lastmod>2024-09-18T20:10:22.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/Submitting-a-Time-Sheet</loc>
+        <lastmod>2024-09-18T20:09:54.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/How-do-I-read-my-State-Unemployment-Tax-rate-notice-States-K-M</loc>
+        <lastmod>2024-07-24T13:04:12.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/How-do-I-change-employee-status</loc>
+        <lastmod>2024-07-23T20:30:28.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://help.surepayroll.com/s/article/How-do-I-cancel-my-subscription</loc>
+        <lastmod>2024-07-23T20:27:51.000Z</lastmod>
+    </url>
+    <!-- Add remaining URLs in the same structure -->
 </urlset>
